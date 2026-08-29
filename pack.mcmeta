@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "description": "the ultimate soggy resourcepack by srcocoa",
+    "pack_format": 18,
+    "supported_formats": { "min_inclusive": 18, "max_inclusive": 88 },
+    "min_format": 18,
+    "max_format": 88
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "pre_1_21_4",
+        "formats": { "min_inclusive": 18, "max_inclusive": 45 },
+        "min_format": 18,
+        "max_format": 45
+      },
+      {
+        "directory": "pre_1_21_11",
+        "formats": { "min_inclusive": 46, "max_inclusive": 74 },
+        "min_format": 46,
+        "max_format": 74
+      }
+    ]
+  }
+}
